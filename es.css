@@ -1,0 +1,45 @@
+body{
+   background-color:#6E231D;
+}
+a{
+	margin-left:25px;
+}	
+.links{
+	background-color:#fff;
+	text-align:center;
+	margin-left:20%;
+	margin-right:20%;
+	font-size:30px;
+}
+.tit{
+	background-color:#fff;
+	text-align:center;
+	margin-left:20%;
+	margin-right:20%;
+}
+.im{
+	background-color:#fff;
+	margin-left:30%;
+	margin-right:30%;
+}
+img{
+	width:80%;
+	margin-left:10%;
+	margin-right:10%;
+}
+.sub{
+	background-color:#fff;
+	text-align:center;
+	margin-left:37%;
+	margin-right:37%;
+}
+.pa{
+	background-color:#fff;
+	margin-left:30%;
+	margin-right:30%;
+	font-size:20px;
+}
+#l{
+	text-align:center;
+	font-size:30px;
+}
