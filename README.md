@@ -10,8 +10,10 @@
     <p>pequeña pagina echa por estudiantes</p>
 </div>
 <div class="im">
-<img src="fondo.jpg"></img>
+<img src="fondo.jpg">
 </div>
+  <div class="links">
 <a href="ya valio.html">pagina principal</a>
+    </div>
 </body>
 </html>
