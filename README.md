@@ -1,3 +1,11 @@
 # escuelasecundariatecnicanumero38
 una pequeña pagina echa por estudiantes
-<a href="ya valio.html">pagina principal</a> 
+<html>
+<head>
+<meta charset="utf-8">
+<link type="text/css" rel="stylesheet" href="es.css"> 
+</head>
+<body>
+<a href="ya valio.html">pagina principal</a>
+</body>
+</html>
